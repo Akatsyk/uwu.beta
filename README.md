@@ -3,4 +3,4 @@
 
 ## how to compile
 
-- please check "help.txt" for compiling this project correctly!:)
+- please check "help.txt" to compile this project correctly
