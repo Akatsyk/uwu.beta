@@ -1,0 +1,9 @@
+how to compile uwu.beta:
+
+win sdk version: 10.0.18362.0
+platform toolset: vs19+22 (v142-143)
+c++ lang standard: iso c++17 standard (/std:c++17)
+
+before compiling make sure to set:
+
+release or debug/x86
