@@ -1,4 +1,4 @@
-## uwu.beta fixed (UI needs Rework)
+## uwu.beta backend fix (UI needs rework)
 > internal legit + rage cheat for cs:go
 
 ## how to compile
